@@ -1,6 +1,6 @@
 ### 项目管理系统接口
 
-需要配合[前端项目](https://gitee.com/vilson/vue-projectManage)使用
+需要配合[前端项目](https://github.com/a54552239/projectManage)使用
 
 有不明白的地方的可以加群：275264059，或者联系我，QQ：545522390
 ### 演示地址
